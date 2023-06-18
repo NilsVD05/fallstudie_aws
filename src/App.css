@@ -33,7 +33,7 @@
   to { transform: rotate(360deg); }
 }
 
-.color1 { background-color: #1488C6; }
+.color1 { background-color: yellow; }
 .color2 { background-color: #3E4E5A; }
 .color3 { background-color: #64798A; }
 .color4 { background-color: #F0F0F0; }
@@ -43,7 +43,7 @@ body { color: aliceblue; font-family: sans-serif }
 
 /* Animation */
 body {
-  background: #1488C6;
+  background: yellow;
   overflow: hidden;
   font-family: 'Open Sans', sans-serif;
 }
